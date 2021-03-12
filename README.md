@@ -15,3 +15,5 @@ All files needed to boot using OpenCore on an EFI partition.
 ## How to use
 
 If you are using OpenCore and have the Hardware listed above, then you can simply download the EFI folder in this Repo, and use it for your own build.
+
+If your case is different, or you have more USB ports, run USBMap yourself and replace the kext with one that suits your own system. **15 ports maximum are supported by macOS**
